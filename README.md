@@ -164,17 +164,3 @@ Personal_Book_Library/
     │       └── MyBooksView.vue     # Functionality 3, 4, 5
     └── package.json
 ```
-
----
-
-## 🎬 Video Demo Outline (< 2 minutes)
-
-1. **Framework Setup** [0:00–0:20] — Show `npm start` (Backend) and `npm run dev` (Frontend) starting successfully.
-2. **RESTful Web Services** [0:20–0:50] — Mention that your frontend strictly separates from your Express backend. Show the `server.js` file briefly to highlight the `app.get()` and `app.post()` endpoints.
-3. **Live Demo** [0:50–1:55] — Open `http://localhost:5173`. Search for a book, click "Add to Library", navigate to "My Library", click "Mark as Finished", and then delete a book. Explain that this represents all 5 core functionalities!
-
----
-
-## 📄 License
-
-MIT License — Faculty of Computing, UTM
